@@ -32,12 +32,12 @@ I'm a **Full Stack MERN Developer** with a passion for creating dynamic, user-fr
 
 ### 🚀 Featured Projects
 
-#### 🎓 [SmartLearn](https://github.com/pritiparkhe/smartlearn)
+#### 🎓 [https://github.com/PritiParkhe/SmartLearn)
 > A modern e-learning platform designed for seamless course consumption, interactive quizzes, and personalized dashboards.  
 > ⚙️ **Tech Used:** React, Node.js, Express.js, MongoDB, Tailwind CSS  
 > 💡 **Impact:** Enhanced learning experience with dynamic course content, boosting user retention and engagement.
 
-#### 🐦 [Twitter Clone](https://github.com/pritiparkhe/twitter-clone)
+#### 🐦 [https://github.com/PritiParkhe/Twitter-Fullstack)
 > A full-featured social media app with story sharing, real-time chat, tweet interactions, and responsive UI.  
 > ⚙️ **Tech Used:** MERN Stack, Socket.io, Tailwind CSS, Cloudinary  
 > 💡 **Impact:** Boosted engagement by 25% through stories & increased retention by 30% with deep tweet features.
