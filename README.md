@@ -41,16 +41,7 @@ I'm a **Full Stack MERN Developer** with a passion for creating dynamic, user-fr
 > A full-featured social media app with story sharing, real-time chat, tweet interactions, and responsive UI.  
 > ⚙️ **Tech Used:** MERN Stack, Socket.io, Tailwind CSS, Cloudinary  
 > 💡 **Impact:** Boosted engagement by 25% through stories & increased retention by 30% with deep tweet features.
-
-#### 🛒 [Amazon Clone](https://github.com/pritiparkhe/amazon-clone)
-> E-commerce platform with Stripe-based payments, product filtering, cart/order flow, and responsive UI.  
-> ⚙️ **Tech Used:** MERN Stack, Stripe API  
-> 💡 **Impact:** Achieved 100% payment accuracy & 95% mobile usability score.
-
-#### ✍️ [Blog App](https://github.com/pritiparkhe/blog-app)
-> A blogging platform using TinyMCE for rich content creation and publishing.  
-> ⚙️ **Tech Used:** React, Appwrite, TinyMCE API
-
+> 
 ---
 
 Feel free to check out the projects, contribute, or ask questions! 🚀
