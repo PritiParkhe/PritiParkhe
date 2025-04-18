@@ -1,21 +1,5 @@
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
-  <style>
-    h1 {
-      font-family: 'Poppins', sans-serif;
-      font-size: 3em; /* Adjust the font size to your liking */
-      background: linear-gradient(90deg, #ff6ec7, #ff007f); /* Pink-red gradient */
-      -webkit-background-clip: text; /* Apply the gradient to the text */
-      color: transparent; /* Make the actual text transparent */
-      text-align: center;
-      font-weight: bold;
-    }
-  </style>
-</head>
+#Hi there 👋, I'm Priti Parkhe</h1>
 
-<body>
-  <h1>Hi there 👋, I'm Priti Parkhe</h1>
-</body>
 
 ## 🚀 Full Stack MERN Developer | Salesforce Enthusiast | Tech Explorer
 
