@@ -1,21 +1,29 @@
-<h1 align="center">Hi there 👋, I'm Priti Parkhe</h1>
-<h3 align="center">🚀 Full Stack MERN Developer | Salesforce Enthusiast | Tech Explorer</h3>
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+  <style>
+    h1 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 3em; /* Adjust the font size to your liking */
+      background: linear-gradient(90deg, #ff6ec7, #ff007f); /* Pink-red gradient */
+      -webkit-background-clip: text; /* Apply the gradient to the text */
+      color: transparent; /* Make the actual text transparent */
+      text-align: center;
+      font-weight: bold;
+    }
+  </style>
+</head>
 
-<p align="center">
-  <a href="https://github.com/pritiparkhe">GitHub</a> •
-  <a href="https://linkedin.com/in/pritiparkhe">LinkedIn</a> •
-  <a href="https://portfolio-alpha-livid-95.vercel.app">Portfolio</a>
-</p>
+<body>
+  <h1>Hi there 👋, I'm Priti Parkhe</h1>
+</body>
+
+## 🚀 Full Stack MERN Developer | Salesforce Enthusiast | Tech Explorer
 
 ---
 
 ### 👩‍💻 About Me
 
-I'm a **Full Stack MERN Developer** with a passion for creating dynamic, user-friendly applications. I specialize in the **MERN Stack** (MongoDB, Express.js, React, Node.js) and love building scalable web applications. Whether it's developing efficient back-end logic or creating interactive front-end interfaces, I enjoy working on every aspect of web development.
-
-- 🚀 Currently building projects using **React**, **Node.js**, **Express.js**, and **MongoDB**.
-- 🌐 Exploring new technologies like **Next.js**, **TypeScript**, and **Salesforce**.
-- 🧠 Always learning and passionate about improving code quality and problem-solving.
+I'm a **Full Stack MERN Developer** with a passion for creating dynamic, user-friendly applications.
 
 ---
 
@@ -37,67 +45,11 @@ I'm a **Full Stack MERN Developer** with a passion for creating dynamic, user-fr
 
 ### 🚀 Featured Projects
 
-#### 🎓 [SmartLearn](https://github.com/pritiparkhe/smartlearn)
-> A modern e-learning platform designed for seamless course consumption, interactive quizzes, and personalized dashboards.  
-> ⚙️ **Tech Used:** React, Node.js, Express.js, MongoDB, Tailwind CSS  
-> 💡 **Impact:** Enhanced learning experience with dynamic course content, boosting user retention and engagement.
-
-#### 🐦 [Twitter Clone](https://github.com/pritiparkhe/twitter-clone)
-> A full-featured social media app with story sharing, real-time chat, tweet interactions, and responsive UI.  
-> ⚙️ **Tech Used:** MERN Stack, Socket.io, Tailwind CSS, Cloudinary  
-> 💡 **Impact:** Boosted engagement by 25% through stories & increased retention by 30% with deep tweet features.
-
-#### 🛒 [Amazon Clone](https://github.com/pritiparkhe/amazon-clone)
-> E-commerce platform with Stripe-based payments, product filtering, cart/order flow, and responsive UI.  
-> ⚙️ **Tech Used:** MERN Stack, Stripe API  
-> 💡 **Impact:** Achieved 100% payment accuracy & 95% mobile usability score.
-
-#### ✍️ [Blog App](https://github.com/pritiparkhe/blog-app)
-> A blogging platform using TinyMCE for rich content creation and publishing.  
-> ⚙️ **Tech Used:** React, Appwrite, TinyMCE API
+- 🎓 [SmartLearn](https://github.com/pritiparkhe/smartlearn)
+- 🐦 [Twitter Clone](https://github.com/pritiparkhe/twitter-clone)
+- 🛒 [Amazon Clone](https://github.com/pritiparkhe/amazon-clone)
+- ✍️ [Blog App](https://github.com/pritiparkhe/blog-app)
 
 ---
 
-### 💼 Experience
-
-**Virtual Intern @ Salesforce** *(Aug ’23 – Oct ’23)*  
-- Enhanced CRM using Apex, Visualforce & Lightning components  
-- Boosted system efficiency and UX  
-- Achieved Mountaineer rank on Trailhead
-
----
-
-### 🎓 Education
-
-**B.E. in Computer Science**  
-**JSPM’s Imperial College of Engineering** | **CGPA: 8.23**  
-*Aug 2019 – Jul 2023*  
-- Specialized in Full Stack Development and Cloud Computing  
-- Relevant Coursework: Data Structures, Algorithms, Database Management, Web Development, System Design
----
-
-### 🏆 Achievements
-
-- 📄 Research published in **European Chemical Bulletin** on waste brick & fly ash recycling  
-- 🏔️ Salesforce Trailhead Mountaineer
-
----
-
-### 🌟 Motto
-
-> *"The best way to predict the future is to invent it." – Alan Kay*
-
----
-
-### 📧 Contact Me
-
-Feel free to reach out to me via:
-
-- **Email:** [pritiparkhe@example.com](mailto:pritiparkhe@example.com)
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/pritiparkhe)
-- **Portfolio:** [Visit my Portfolio](https://portfolio-alpha-livid-95.vercel.app)
-
----
-
-
-
+Feel free to check out the projects, contribute, or ask questions! 🚀
