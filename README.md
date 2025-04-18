@@ -74,33 +74,12 @@ I'm a **Full Stack MERN Developer** with a passion for creating dynamic, user-fr
 *Aug 2019 – Jul 2023*  
 - Specialized in Full Stack Development and Cloud Computing  
 - Relevant Coursework: Data Structures, Algorithms, Database Management, Web Development, System Design
-
-**Higher Secondary (XII)**  
-**C.B.T Aakutai Kalyani Girls School** | **64.31%**  
-*2019*
-
-**Secondary (X)**  
-**C.B.T Aakutai Kalyani Girls School** | **89.75%**  
-*2017*
-
 ---
 
 ### 🏆 Achievements
 
 - 📄 Research published in **European Chemical Bulletin** on waste brick & fly ash recycling  
 - 🏔️ Salesforce Trailhead Mountaineer
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritiparkhe&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritiparkhe&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritiparkhe&layout=compact&theme=radical" />
-</p>
 
 ---
 
