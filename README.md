@@ -1,5 +1,4 @@
-#Hi there 👋, I'm Priti Parkhe</h1>
-
+# Hi there 👋, I'm Priti Parkhe
 
 ## 🚀 Full Stack MERN Developer | Salesforce Enthusiast | Tech Explorer
 
@@ -8,6 +7,10 @@
 ### 👩‍💻 About Me
 
 I'm a **Full Stack MERN Developer** with a passion for creating dynamic, user-friendly applications.
+
+- 🚀 Currently building projects using **React**, **Node.js**, **Express.js**, and **MongoDB**.
+- 🌐 Exploring new technologies like **Next.js**, **TypeScript**, and **Salesforce**.
+- 🧠 Always learning and passionate about improving code quality and problem-solving.
 
 ---
 
@@ -29,10 +32,24 @@ I'm a **Full Stack MERN Developer** with a passion for creating dynamic, user-fr
 
 ### 🚀 Featured Projects
 
-- 🎓 [SmartLearn](https://github.com/pritiparkhe/smartlearn)
-- 🐦 [Twitter Clone](https://github.com/pritiparkhe/twitter-clone)
-- 🛒 [Amazon Clone](https://github.com/pritiparkhe/amazon-clone)
-- ✍️ [Blog App](https://github.com/pritiparkhe/blog-app)
+<div align="center">
+  <a href="https://github.com/pritiparkhe/smartlearn" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="SmartLearn Icon" />
+    <h4>SmartLearn</h4>
+  </a>
+  <a href="https://github.com/pritiparkhe/twitter-clone" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="Twitter Clone Icon" />
+    <h4>Twitter Clone</h4>
+  </a>
+  <a href="https://github.com/pritiparkhe/amazon-clone" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/amazon.png" alt="Amazon Clone Icon" />
+    <h4>Amazon Clone</h4>
+  </a>
+  <a href="https://github.com/pritiparkhe/blog-app" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/blog.png" alt="Blog App Icon" />
+    <h4>Blog App</h4>
+  </a>
+</div>
 
 ---
 
