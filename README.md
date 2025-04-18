@@ -11,37 +11,27 @@
 
 ### 👩‍💻 About Me
 
-I’m a passionate **Full Stack MERN Developer** with a strong foundation in both frontend and backend technologies. I love solving real-world problems and delivering responsive, scalable web apps with delightful user experiences. 
+I'm a **Full Stack MERN Developer** with a passion for creating dynamic, user-friendly applications. I specialize in the **MERN Stack** (MongoDB, Express.js, React, Node.js) and love building scalable web applications. Whether it's developing efficient back-end logic or creating interactive front-end interfaces, I enjoy working on every aspect of web development.
 
-- 🔍 Exploring Salesforce ecosystem with Apex & Lightning
-- ⚙️ Currently working with microservices & RESTful API architecture
-- 🧠 Always learning something new — currently diving into Next.js & TypeScript
-- 📚 Published researcher in the *European Chemical Bulletin*
+- 🚀 Currently building projects using **React**, **Node.js**, **Express.js**, and **MongoDB**.
+- 🌐 Exploring new technologies like **Next.js**, **TypeScript**, and **Salesforce**.
+- 🧠 Always learning and passionate about improving code quality and problem-solving.
 
 ---
 
 ### 🧰 Tech Stack & Tools
 
-**Languages & Frameworks:**  
-Java, HTML, CSS, Tailwind, JavaScript, React, Node.js, Express.js
-
-**Databases & Tools:**  
-MongoDB, SQL, DBMS, Operating Systems
-
-**Additional Tools:**  
-Apex, Visualforce, Salesforce Lightning, Socket.io, Cloudinary
-
-**Emerging Technologies:**  
-MERN Stack, Stripe API, Appwrite
-
-**Architecture:**  
-RESTful APIs, Microservices
-
-**DevOps:**  
-Git, CI/CD pipelines
-
-**Soft Skills:**  
-Communication, Problem-Solving, Collaboration, Adaptability
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ---
 
@@ -79,11 +69,19 @@ Communication, Problem-Solving, Collaboration, Adaptability
 
 ### 🎓 Education
 
-**B.E. | JSPM’s Imperial College of Engineering**  
-*CGPA: 8.23 | Aug 2019 – Jul 2023*
+**B.E. in Computer Science**  
+**JSPM’s Imperial College of Engineering** | **CGPA: 8.23**  
+*Aug 2019 – Jul 2023*  
+- Specialized in Full Stack Development and Cloud Computing  
+- Relevant Coursework: Data Structures, Algorithms, Database Management, Web Development, System Design
 
-**XII (MSBSHSE) | C.B.T Aakutai Kalyani Girls School**  
-*64.31% | 2019*
+**Higher Secondary (XII)**  
+**C.B.T Aakutai Kalyani Girls School** | **64.31%**  
+*2019*
+
+**Secondary (X)**  
+**C.B.T Aakutai Kalyani Girls School** | **89.75%**  
+*2017*
 
 ---
 
@@ -111,4 +109,16 @@ Communication, Problem-Solving, Collaboration, Adaptability
 > *"The best way to predict the future is to invent it." – Alan Kay*
 
 ---
+
+### 📧 Contact Me
+
+Feel free to reach out to me via:
+
+- **Email:** [pritiparkhe@example.com](mailto:pritiparkhe@example.com)
+- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/pritiparkhe)
+- **Portfolio:** [Visit my Portfolio](https://portfolio-alpha-livid-95.vercel.app)
+
+---
+
+
 
